@@ -75,14 +75,3 @@ module.exports = [{
 ``` bash
 npm start
 ```
-
-## 更新内容
-
-### 2023-08-14
-[支持Telegram推送](https://github.com/wes-lin/Cloud189Checkin/pull/18)
-### 2023-06-09
-[添加错误重试](https://github.com/wes-lin/Cloud189Checkin/issues/14)
-### 2023-06-05
-[支持Server酱推送](https://github.com/wes-lin/Cloud189Checkin/issues/8)
-### 2023-05-19
-[支持多账户](https://github.com/wes-lin/Cloud189Checkin/issues/7)
